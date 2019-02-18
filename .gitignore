@@ -1,0 +1,12 @@
+#Maven artifacts
+target/
+
+#Eclipse artifacts
+.classpath
+.settings/
+.project
+
+#Log files
+logs
+
+.idea
