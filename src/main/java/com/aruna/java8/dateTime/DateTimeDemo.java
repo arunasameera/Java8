@@ -10,7 +10,7 @@ public class DateTimeDemo {
 
 	public static void main(String[] args) {
 		
-		//Date time in java8 using web application
+		//Date time in java8 using devops branch
 		
 		LocalDate d = LocalDate.now();
 		LocalDate birthday = LocalDate.of(1984, Month.AUGUST, 29);
